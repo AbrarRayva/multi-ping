@@ -1,5 +1,5 @@
 # multi-ping
-simple TUI for monitoring multiple hosts with ICMP ping.
+A simple TUI for monitoring multiple hosts with ICMP ping.
 
 ## Features
 
